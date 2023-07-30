@@ -31,8 +31,8 @@ To run the PC Builder website on your local machine, follow these steps:
 1. Clone the project repository to your local machine.
 
 ```bash
-git clone <repository_url>
-cd pc-builder-website
+git clone https://github.com/moshiuzzaman/pc-builder.git
+cd pc-builder
 ```
 
 Install the required dependencies.
