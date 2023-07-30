@@ -1,0 +1,24 @@
+{
+  "name": "rose-computer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "antd": "^5.6.1",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.5",
+    "mongodb": "^5.7.0",
+    "next": "13.4.5",
+    "next-auth": "^4.22.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.1",
+    "react-redux": "^8.1.1"
+  }
+}
