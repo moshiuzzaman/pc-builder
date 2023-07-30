@@ -2,6 +2,9 @@
 
 The Rose Computer website is a platform for building custom PCs by selecting various PC components and parts. Users can explore different categories of PC components, view featured products, and build their PCs using the PC Builder tool. The website is built using Next.js and implements both static site generation (SSG) and server-side rendering (SSR) for better performance and user experience. Additionally, user authentication is enabled through NextAuth with social login providers (Google/Github).
 
+# Live link 
+https://assignment-6-computershop.vercel.app/
+
 ## Features
 
 1. **Navbar**: The top navigation bar contains a "PC Builder" button that redirects the user to the PC Builder page. It also includes a "Categories" dropdown menu with different PC component categories, each having its corresponding route.
